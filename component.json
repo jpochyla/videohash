@@ -1,0 +1,12 @@
+{
+  "name": "videohash",
+  "repo": "jpochyla/videohash",
+  "description": "Video file hashing",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
